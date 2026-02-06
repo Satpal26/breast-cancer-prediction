@@ -39,6 +39,14 @@ python train_model.py
 python app.py
 
 ```
+
+## 🖼️ GUI Preview
+
+Below is a preview of the desktop GUI application used for breast cancer prediction:
+
+![GUI Preview](gui_preview.png)
+
+
 ⚠️ Disclaimer
 
 This project is for educational and research purposes only and should not be used for real-world medical diagnosis.
