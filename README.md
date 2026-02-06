@@ -20,8 +20,6 @@ A simple Python Tkinter-based GUI is provided where users can:
 - Get real-time cancer prediction
 
 ## 📂 Project Structure
-
-## 📂 Project Structure
 breast-cancer-prediction
 ├── train_model.py # Model training and evaluation
 ├── app.py # GUI application
